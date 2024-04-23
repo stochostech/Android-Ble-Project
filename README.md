@@ -1,1 +1,1 @@
-# Android Example Project using Stochos Ble
+# Android Project using Stochos Ble
